@@ -28,7 +28,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="𝐦𝐚𝐤𝐞𝐫", url=f"https://t.me/I_LOVE_Y0U_MY_HEARTBEET"
             )
         ],
      ]
@@ -50,7 +50,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💥", url=config.SUPPORT_CHANNEL
+                text="🥀 𝐦𝐚𝐤𝐞𝐫 💥", url=config.SUPPORT_CHANNEL
             ),
             InlineKeyboardButton(
                 text="🥀 𝐆𝐫𝐨𝐮𝐩 💥", url=config.SUPPORT_GROUP
@@ -58,7 +58,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text=" 𝐦𝐚𝐤𝐞𝐫 ", url=f"https://t.me/I_LOVE_Y0U_MY_HEARTBEET"
             )
         ],
         [
